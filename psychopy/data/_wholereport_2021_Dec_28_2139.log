@@ -1,0 +1,36 @@
+1.0223 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+7.1073 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+7.8705 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f900ec91a58>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f900f3ef5c0>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.8708 	EXP 	window1: mouseVisible = True
+7.8708 	EXP 	window1: recordFrameIntervals = False
+8.0363 	EXP 	window1: recordFrameIntervals = True
+8.1802 	WARNING 	t of last frame was 27.14ms (=1/36)
+8.3701 	EXP 	window1: recordFrameIntervals = False
+10.0431 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1, ori=0.0, pos=array([0.83333333, 0.66666667]), size=array([0.15, 0.3 ]), units='norm', vertices=ndarray(...), win=Window(...), windingRule=None)
+10.0451 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon_2', opacity=1, ori=0.0, pos=array([0.        , 0.66666667]), size=array([0.15, 0.3 ]), units='norm', vertices=ndarray(...), win=Window(...), windingRule=None)
+10.0473 	EXP 	Created polygon_3 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon_3', opacity=1, ori=0.0, pos=array([-0.66666667,  0.66666667]), size=array([0.15, 0.3 ]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+10.0696 	EXP 	polygon: autoDraw = True
+10.0696 	EXP 	polygon_2: autoDraw = True
+10.0696 	EXP 	polygon_3: autoDraw = True
+14.1239 	DATA 	Mouse: Left button down, pos=(118,900)
+14.2751 	DATA 	Mouse:  Left button up, pos=(118,900)
+15.6245 	DATA 	Keypress: escape
+16.2783 	EXP 	window1: mouseVisible = True
+0.9220 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+10.4637 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+11.2276 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fd17c5d4ac8>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fd17cb69630>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+11.2279 	EXP 	window1: mouseVisible = True
+11.2279 	EXP 	window1: recordFrameIntervals = False
+11.3936 	EXP 	window1: recordFrameIntervals = True
+11.5810 	WARNING 	t of last frame was 21.08ms (=1/47)
+11.7605 	EXP 	window1: recordFrameIntervals = False
+13.4878 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1, ori=0.0, pos=array([0.83333333, 0.66666667]), size=array([0.15, 0.3 ]), units='norm', vertices=ndarray(...), win=Window(...), windingRule=None)
+13.4902 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon_2', opacity=1, ori=0.0, pos=array([0.        , 0.66666667]), size=array([0.15, 0.3 ]), units='norm', vertices=ndarray(...), win=Window(...), windingRule=None)
+13.4928 	EXP 	Created polygon_3 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon_3', opacity=1, ori=0.0, pos=array([-0.83333333,  0.66666667]), size=array([0.15, 0.3 ]), units='norm', vertices=ndarray(...), win=Window(...), windingRule=None)
+13.5107 	EXP 	polygon: autoDraw = True
+13.5107 	EXP 	polygon_2: autoDraw = True
+13.5107 	EXP 	polygon_3: autoDraw = True
+16.7325 	DATA 	Mouse: Left button down, pos=(87,900)
+16.8648 	DATA 	Mouse:  Left button up, pos=(87,900)
+22.7659 	DATA 	Keypress: escape
+23.4868 	EXP 	window1: mouseVisible = True
